@@ -1,14 +1,16 @@
-body.homepage {
+.bg-color {
     background-color: rgb(50, 50, 50);
 }
 
-.homepage-title {
+.homepage-title,
+.recipe-title {
     background-color: rgb(255, 255, 0);
     color: black;
     text-align: center;
     padding: 8px;
     margin: 32px;
     font-family: "Brush Script MT", cursive;
+    font-size: 64px;
 }
 
 .thumbnail {
@@ -23,6 +25,7 @@ body.homepage {
     text-align: center;
     padding: 8px;
     font-family: "Brush Script MT", cursive;
+    font-size: 32px;
 }
 
 .thumbnail-back {
@@ -32,3 +35,34 @@ body.homepage {
     margin: 16px auto;
 }
 
+.home-link {
+    background-color: yellow;
+    font-family: "Courier New", monospace;
+    padding: 8px;
+    margin: 8px;
+    font-size: 32px;
+}
+
+.recipe-image {
+    height: auto;
+    width: 30%;
+    display: block;
+    margin: auto;
+    margin-bottom: 32px;
+}
+
+h2 {
+    background-color: yellow;
+    text-align: center;
+    padding: 8px;
+    margin: 8px;
+    font-size: 48px;
+}
+
+p,
+ul,
+ol {
+    color: white;
+    margin: 32px;
+    font-size: 32px;
+}
