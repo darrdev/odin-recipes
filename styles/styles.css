@@ -8,6 +8,7 @@ body.homepage {
     text-align: center;
     padding: 8px;
     margin: 32px;
+    font-family: "Brush Script MT", cursive;
 }
 
 .thumbnail {
@@ -21,6 +22,7 @@ body.homepage {
     display: block;
     text-align: center;
     padding: 8px;
+    font-family: "Brush Script MT", cursive;
 }
 
 .thumbnail-back {
