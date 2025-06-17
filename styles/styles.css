@@ -1,0 +1,32 @@
+body.homepage {
+    background-color: rgb(50, 50, 50);
+}
+
+.homepage-title {
+    background-color: rgb(255, 255, 0);
+    color: black;
+    text-align: center;
+    padding: 8px;
+    margin: 32px;
+}
+
+.thumbnail {
+    height: auto;
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.thumbnail-link {
+    display: block;
+    text-align: center;
+    padding: 16px;
+}
+
+.thumbnail-back {
+    background-color: yellow;
+    padding: 24px 24px 8px 24px;
+    width: 70%;
+    margin: 32px auto;
+}
+
